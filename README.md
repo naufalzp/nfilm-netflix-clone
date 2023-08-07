@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# NFILM - Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Demo Screeshots
+![screencapture-nflim-netflix-clone-web-app-2023-08-07-08_07_25](https://github.com/naufalzp/nfilm-netflix-clone/assets/98691805/a5e0a7e8-0fa4-4bac-a00a-d5c745c31edb)
+
+<div align="center">
+
+<a href="https://naufalzhafifpbw.000webhostapp.com/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+## Technologies Used
+<ul>
+<li>React JS</li>
+<li>Tailwind CSS</li>
+<li>Firebase</li>
+<li>Node JS</li>
+</ul>
+
+## API
+TMDB Api.\
+https://developer.themoviedb.org/reference/intro/getting-started
 
 ## Available Scripts
 
