@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://naufalzhafifpbw.000webhostapp.com/"><strong>➥ Live Demo</strong></a>
+<a href="https://nflim-netflix-clone.web.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
